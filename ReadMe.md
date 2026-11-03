@@ -7,7 +7,7 @@ I work on animal sound using deep learning 🐸
 - Maintainer of [bacpipe](https://github.com/bioacoustic-ai/bacpipe)
 - Passionate about making bioacoustic ml accessible 🎤🐦 ([bacpipe-paper](https://doi.org/10.1111/2041-210X.70406))
 - Always looking for collaborators, both coders and non-coders ([see here](https://github.com/bioacoustic-ai/bacpipe/issues/78))
-- Find more at [siriusly.me](https://siriusly.me)
+- Find more at [siriusly.me](https://siriusly.me/?ref=ghub_readme)
 
 Watch my presentation at IRCAM to learn more about my research
 [![Watch the Video](pics/pres.png)](https://ressources.ircam.fr/fr/embed/media/0b4b4e7baaf024922578)
